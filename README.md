@@ -40,9 +40,9 @@
 </div>
 <br/>
 <div>
-	
-	![Snake animation](https://github.com/nicolastito/nicolastito/blob/output/github-contribution-grid-snake.svg)
-	
+
+![Snake animation](https://github.com/nicolastito/nicolastito/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 <br/>
 <h3 align="left">Connect with me:</h3>
