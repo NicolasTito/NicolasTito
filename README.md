@@ -39,7 +39,11 @@
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolastito&theme=dark" alt="nicolastito" />
 </div>
 <br/>
-![Snake animation](https://github.com/nicolastito/nicolastito/blob/output/github-contribution-grid-snake.svg)
+<div>
+	
+	![Snake animation](https://github.com/nicolastito/nicolastito/blob/output/github-contribution-grid-snake.svg)
+	
+</div>
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
